@@ -1,1 +1,0 @@
-net use o: \\finance-backup\forms /P:y
